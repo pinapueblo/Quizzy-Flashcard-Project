@@ -8,3 +8,19 @@ Flip Animation: Click on a flashcard to reveal its back.
 Progress Tracking: See which flashcard you're on with a counter (e.g., 3 / 10).
 Responsive Design: Works on desktop and mobile devices.
 No Ads, Fully Open Source: Free to use and customize.
+
+Technologies Used 🛠️
+HTML: Structure of the website.
+CSS: Styling for a sleek, responsive design.
+JavaScript: Logic for creating and navigating flashcards.
+
+Acknowledgments 🙌
+Inspired by Quizlet and other flashcard apps.
+
+Contributing 🤝
+Contributions are welcome! If you have ideas for new features or improvements:
+Fork the repository.
+Create a new branch (git checkout -b feature-name).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-name).
+Open a pull request.
